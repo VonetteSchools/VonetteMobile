@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1024503668914",
+    "project_id": "vonette-schools-mobile",
+    "storage_bucket": "vonette-schools-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024503668914:android:33717e1a60447e1678a9ab",
+        "android_client_info": {
+          "package_name": "com.vonette_schools.vonette_schools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024503668914-m8nv027j9v2t6blqbeoiq282sudaa5mf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vonette_schools.vonette_schools",
+            "certificate_hash": "1eb4c11f2f96e497ba707ebf3bb4fe39e0740ece"
+          }
+        },
+        {
+          "client_id": "1024503668914-o5qnvp4kp7unmo2qumug26i3rcoa71c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhbkB9A1_5Ti-XDrQzYt8z5qn9hPe8j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024503668914-o5qnvp4kp7unmo2qumug26i3rcoa71c5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024503668914-5jor14hqjg39v8lrlnp40ifft86opc73.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vonetteSchools"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
