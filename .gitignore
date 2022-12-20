@@ -1,0 +1,11 @@
+/android/*
+/ios/*
+/linux/*
+/macos/*
+/test/*
+/web/*
+/windows/*
+.metadata
+README.md
+analysis_options.yaml
+*.lock
