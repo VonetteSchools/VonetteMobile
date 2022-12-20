@@ -4,5 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-flutter create <app_name>
+flutter create <app_name>\n
 replace above files in your computer manually
