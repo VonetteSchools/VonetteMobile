@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1024503668914-ao9o3dg3fktofgcdvl6d4fg0ge663oeg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1024503668914-ao9o3dg3fktofgcdvl6d4fg0ge663oeg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1024503668914-m8nv027j9v2t6blqbeoiq282sudaa5mf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWaHVfHVDSX2QZeHbdiYSI4UXeFnuwxuE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1024503668914</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vonetteMobile</string>
+	<key>PROJECT_ID</key>
+	<string>vonette-schools-mobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vonette-schools-mobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1024503668914:ios:545c6edb1d5bef6878a9ab</string>
+</dict>
+</plist>
