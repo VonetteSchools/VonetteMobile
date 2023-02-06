@@ -115,7 +115,8 @@ class DatabaseService {
   Future get getUsernameList {
     return _userInfo.get().then((querysnapshot) {
       if (querysnapshot.size == 0) {
-        return null; } else {
+        return null; 
+      } else {
           var docs = querysnapshot.docs.map((e) => e.data()['username']);
           return docs.toList();
         }
